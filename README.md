@@ -18,6 +18,6 @@ Utilized PowerShell scripts for this purpose, although Python or SSIS could also
 The file ![Questions & Answers.ipynb](https://github.com/waynezc5/SQL_DEVELOPER_SAMPLE/blob/main/Questions%20%26%20Answers.ipynb) contains the SQL Server queries, notes and corresponding results for the provided questions. This file can be viewed on GitHub or downloaded as a Notebook in Azure Data Studio for further exploration. 
 
 ### 
-The combined efforts of data review, diagramming, T-SQL development, ETL processing, and documentation allowed for comprehensive analysis and effective answering of the provided questions within a SQL Server environment.
+The combined efforts of data review, diagramming, T-SQL development, ETL processing, and SELECT query statements allowed for comprehensive analysis and effective answering of the provided questions within a SQL Server environment.
 
 
