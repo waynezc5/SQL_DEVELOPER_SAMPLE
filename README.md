@@ -1,6 +1,6 @@
 # SQL_DEVELOPER_SAMPLE
 
-## Workflow, Documentation, Thought Processes
+## Workflow and Thought Processes
 
 Here's an overview of the workflow and thought processes followed during the project:
 ### 1.	Data Review:
